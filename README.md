@@ -1,6 +1,6 @@
 # Ansible Roles – les-04
 
-This project contains two Ansible roles: one for configuring a **web server** and one for configuring a **database server**. These roles are part of lesson 04 of the IT program and can be used to quickly deploy a basic LAMP stack using Ansible.
+Dit project bevat twee Ansible-rollen: één voor het configureren van een webserver en één voor het configureren van een databaseserver. Deze rollen maken deel uit van les 04 van de IT-opleiding en kunnen worden gebruikt om snel een eenvoudige LAMP-stack uit te rollen met Ansible.
 
 ## 🔧 Roles
 
@@ -15,3 +15,6 @@ This project contains two Ansible roles: one for configuring a **web server** an
 - Creates a new MySQL user
 - Installs PyMySQL (required for Ansible to communicate with MySQL)
 
+
+## Bron
+https://chatgpt.com/share/682ec4ed-40bc-8002-ac3d-00949e656a4a
